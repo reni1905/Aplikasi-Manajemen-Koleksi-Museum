@@ -11,7 +11,7 @@ PHP, MySQL, Laravel, Bootstrap, Visual Studio Code, XAMPP.
 - [x] Categorization
 - [x] Multi-user login
 - [x] Export reports to PDF
-# Result
+# Results
 It assists administrators in managing museum collection data in a structured and integrated manner, and enables the department head to quickly and accurately download collection data reports in PDF format.
 # Notes
 The collection data count feature on the dashboard page is not yet functional. The dashboard page lacks sufficient detail. The CRUD table display does not fit the screen properly, requiring scrolling to view other data. There is no image column in the CRUD data table.
