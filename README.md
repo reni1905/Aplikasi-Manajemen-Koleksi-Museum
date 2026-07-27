@@ -15,6 +15,7 @@ PHP, MySQL, Laravel, Bootstrap, Visual Studio Code, XAMPP.
 It assists administrators in managing museum collection data in a structured and integrated manner, and enables the department head to quickly and accurately download collection data reports in PDF format.
 # Notes
 The collection data count feature on the dashboard page is not yet functional. The dashboard page lacks sufficient detail. The CRUD table display does not fit the screen properly, requiring scrolling to view other data. There is no image column in the CRUD data table.
+# Link
 https://drive.google.com/file/d/1x6-2CFjZvyMNG4V_Oc4vm2HnebwmuWbj/view?usp=drivesdk
 <img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/8b9a12bd-5ada-4901-8960-176e3ca52510" />
 <img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/0df7d5cd-ab15-40bf-8ff2-a653b1ced35a" />
